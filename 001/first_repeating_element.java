@@ -2,6 +2,7 @@
 // User function Template for Java
 
 import java.util.LinkedHashMap;
+import java.util.Set;
 
 class Solution {
     // Function to return the position of the first repeating element.
